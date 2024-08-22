@@ -5,4 +5,4 @@ configuração de função () {
 
 função draw () { 
   fundo ( 220 );
-}https://media1.tenor.com/m/H6LDOWDD_2IAAAAC/wednesday.gif
+![](https://media1.tenor.com/m/H6LDOWDD_2IAAAAC/wednesday.gif)
